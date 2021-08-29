@@ -18,3 +18,6 @@ Step 4: Find the object’s x,y location coordinates to draw on the screen.
 Step 5: Add a Wiper functionality to wipe off the whole screen.
 
 Step 6: Add an Eraser Functionality to erase parts of the drawing.
+
+## Demo
+
