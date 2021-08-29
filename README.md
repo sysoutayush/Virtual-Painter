@@ -6,6 +6,7 @@ Once we’re done with that it’s just a matter of connecting the dots literall
 So here’s a breakdown of each step of our application.
 
 Step 1: Find the color range of the target object and save it. 
+
 Step 2: Apply the correct morphological operations to reduce noise in the video 
 
 Step 3: Detect and track the colored object with contour detection.
