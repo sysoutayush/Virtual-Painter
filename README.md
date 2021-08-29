@@ -1,4 +1,6 @@
 # Virtual-Painter
+
+## Description
 An simple project detect color in an video using webcam
 So here’s how we will achieve this, first, we will use color masking to get a binary mask of our target colored Pen, (I’ll be using a blue colored marker to as the virtual pen) then we’ll use contour detection to detect and track the location of that pen all over the screen.
 
