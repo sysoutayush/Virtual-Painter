@@ -6,7 +6,7 @@
 using namespace cv;
 using namespace std;
 
-///////////////  Color Detection  //////////////////////
+
 
 void main() {
 
